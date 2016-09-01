@@ -4,10 +4,7 @@
 
 - (void)crash:(CDVInvokedUrlCommand*)command
 {
-
-    @throw NSInternalInconsistencyException;
-
-    [self success:result callbackId:callbackId];
+    strcpy(0, "bla");
 }
 
 @end
