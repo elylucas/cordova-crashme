@@ -1,4 +1,4 @@
-#import "ELCrashMe.h"
+#import "CrashMe.h"
 
 @implementation ELCrashMe
 
